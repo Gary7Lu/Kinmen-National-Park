@@ -1,4 +1,4 @@
-<h1 class="header-level-1" >金門國家公園</h1>
+<center><h1 class="header-level-1" >金門國家公園</h1></center>
 <p>
   
  <style>
