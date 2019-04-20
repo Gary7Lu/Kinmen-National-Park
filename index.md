@@ -28,7 +28,7 @@
 
 <pre class="highlight"><code>
 
-<img style="width: 150px; height: 150px;" src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-1/c84.46.569.569a/s50x50/321247_275752345798176_1449253817_n.jpg?_nc_cat=109&amp;_nc_ht=scontent.ftpe8-1.fna&amp;oh=cc0decaf56a53653db0411e73a973c7c&amp;oe=5D31EF91" data-type="image">
+<img style="width: 200px; height: 200px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
 
 </code></pre>
 
