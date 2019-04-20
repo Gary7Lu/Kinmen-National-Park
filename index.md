@@ -17,9 +17,7 @@
 
 <h2 class="header-level-2" >基本資訊:</h2>
 <pre class="highlight"><code>
-<ol>
-  <li><h4>建立時間 : 1995 年 10 月 18日 </h4></li><li><h4> 面積 : 35.3 平方公里 </h4></li>
- </ol>
+<ol><li><h4>建立時間 : 1995 年 10 月 18日 </h4></li><li><h4> 面積 : 35.3 平方公里 </h4></li></ol>
 <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="http://images.china.cn/attachement/jpg/site1007/20110804/0013729e78490fa4c43412.jpg" data-type="image">
 
 </code></pre>
@@ -30,8 +28,8 @@
 <pre class="highlight"><code>
 <img align="left" style="width: 100px; height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
 <center><h3>以閩南式建築的馬背造型，搭配吉祥的紅色構成整體圖案
-   主軸，突顯金門豐富的人文史蹟與傳統聚落，外圈則以綠
-   色代表金門亦有豐富的自然資源，例如鳥類等自然資源。</h3></center>
+主軸，突顯金門豐富的人文史蹟與傳統聚落，外圈則以綠
+色代表金門亦有豐富的自然資源，例如鳥類等自然資源。</h3></center>
 </code></pre>
 
 
