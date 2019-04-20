@@ -7,7 +7,7 @@
   }
 
   body {
-    background-image: url("//https://i.ytimg.com/vi/m27qcUMojCI/maxresdefault.jpg");
+    background-image: url("http://pic.pimg.tw/taishandalofu/1378723707-3938632819.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
