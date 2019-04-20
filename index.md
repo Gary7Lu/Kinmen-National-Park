@@ -19,14 +19,10 @@
 
 <pre class="highlight"><code>
 <ol>
-  
   <li>
-  <a> 建立時間 : 1995 年 10 月 18日 </a>
-  </li>
-  
+  <a> 建立時間 : 1995 年 10 月 18日 </a></li>
   <li>
-  <a> 面積 : 35.3 平方公里 </a>
-  </li>
+  <a> 面積 : 35.3 平方公里 </a></li>
  </ol>
 
 <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="http://images.china.cn/attachement/jpg/site1007/20110804/0013729e78490fa4c43412.jpg" data-type="image">
