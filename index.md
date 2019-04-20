@@ -28,7 +28,7 @@
 
 <pre class="highlight"><code>
 
-<img style="width: 180px; height: 180px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
+<img style="width: 100px; height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
 
 </code></pre>
 
