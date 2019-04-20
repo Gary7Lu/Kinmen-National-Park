@@ -5,6 +5,8 @@
 
 <pre class="highlight"><code>
 
+<img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="http://images.china.cn/attachement/jpg/site1007/20110804/0013729e78490fa4c43412.jpg" data-type="image">
+
 </code></pre>
 
 
