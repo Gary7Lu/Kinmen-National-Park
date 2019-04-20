@@ -28,7 +28,7 @@
 
 <pre class="highlight"><code>
 
-<img style="width: 560px; height: 280px;" src="<img class="_1drn _-s img" src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-1/c84.46.569.569a/s50x50/321247_275752345798176_1449253817_n.jpg?_nc_cat=109&amp;_nc_ht=scontent.ftpe8-1.fna&amp;oh=cc0decaf56a53653db0411e73a973c7c&amp;oe=5D31EF91" height="50" width="50" alt="">" data-type="image">
+<img style="width: 560px; height: 280px;" src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-1/c84.46.569.569a/s50x50/321247_275752345798176_1449253817_n.jpg?_nc_cat=109&amp;_nc_ht=scontent.ftpe8-1.fna&amp;oh=cc0decaf56a53653db0411e73a973c7c&amp;oe=5D31EF91" data-type="image">
 
 </code></pre>
 
