@@ -27,9 +27,8 @@
 <h2 class="header-level-2" >國家公園標示意涵:</h2>
 
 <pre class="highlight"><code>
-
-<img style="width: 100px; height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
-
+<img align="left" style="width: 100px; height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
+<h4>以閩南式建築的馬背造型，搭配吉祥的紅色構成整體圖案主軸，突顯金門豐富的人文史蹟與傳統聚落，外圈則以綠色代表金門亦有豐富的自然資源，例如鳥類等自然資源。</h4>
 </code></pre>
 
 
