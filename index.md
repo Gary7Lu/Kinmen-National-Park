@@ -13,10 +13,11 @@
     background-position: center;
     background-size: cover;
   }
-  <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+  
 </style>
 
 <h2 class="header-level-2" >基本資訊:</h2>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <pre class="highlight"><code>
 
 <ol><li><h3>建立時間 : 1995 年 10 月 18日 </h3></li><li><h3>面積大小 : 35.3 平方公里 </h3></li><li><h3>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區
