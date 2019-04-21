@@ -17,9 +17,7 @@
 
 <h2 class="header-level-2" >基本資訊:</h2>
 <pre class="highlight"><code>
-<ol><li><h4>建立時間 : 1995 年 10 月 18日 </h4></li><li><h4> 面積 : 35.3 平方公里 </h4></li></ol>
-<img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" src="http://images.china.cn/attachement/jpg/site1007/20110804/0013729e78490fa4c43412.jpg" data-type="image">
-
+<ol><li><h4>建立時間 : 1995 年 10 月 18日 </h4></li><li><h4> 面積大小 : 35.3 平方公里 </h4></li><li><h4>包括了金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區，以及烈嶼區</h4></li></ol>
 </code></pre>
 
 
