@@ -17,7 +17,8 @@
 
 <h2 class="header-level-2" >基本資訊:</h2>
 <pre class="highlight"><code>
-<ol><li><h3>建立時間 : 1995 年 10 月 18日 </h3></li><li><h3> 面積大小 : 35.3 平方公里 </h3></li><li><h3>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區，以及烈嶼區</h3></li></ol>
+<ol><li><h3>建立時間 : 1995 年 10 月 18日 </h3></li><li><h3>面積大小 : 35.3 平方公里 </h3></li><li><h3>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區
+，以及烈嶼區</h3></li></ol>
 </code></pre>
 
 
@@ -32,11 +33,14 @@
 
 <h2 class="header-level-2" >公園特色介紹:</h2>
 <pre class="highlight"><code>
-<ol><li><h3> 氣候地形 : 四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</h3></li><li><h3> 生態資源 : 瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</h3></li><li><h3> 戰役古蹟 : </h3></li><li><h3> 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</h3></li></ol>
+<ol><li><h3> 氣候地形 : 四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量
+，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</h3></li><li><h3> 生態資源 : 瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</h3></li><li><h3> 戰役古蹟 : </h3></li><li><h3> 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來
+鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</h3></li></ol>
 </code></pre>
 
 
 <h2 class="header-level-2" >交通資訊:</h2>
+<ol><li><h3>觀光公車 :</h3></li><li><h3>公共渡輪 : </h3></li></ol>
 
 <pre class="highlight"><code>
 
@@ -48,9 +52,9 @@
 <h2 class="header-level-2" >補充資料:</h2>
 
 <pre class="highlight"><code>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJoEg2TCDag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</center>
 </code></pre>
 
 
