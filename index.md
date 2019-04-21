@@ -13,36 +13,42 @@
     background-position: center;
     background-size: cover;
   }
+  p{
+   font-size:18px;
+   font-family:Microsoft JhengHei;
+  }
   
 </style>
 
 <h2 class="header-level-2" >基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<ol><li><h3>建立時間 : 1995 年 10 月 18日 </h3></li><li><h3>面積大小 : 35.3 平方公里 </h3></li><li><h3>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區
-，以及烈嶼區</h3></li></ol>
+<ol><li><p>建立時間 : 1995 年 10 月 18日 </p></li><li><p>面積大小 : 35.3 平方公里 </p></li><li><p>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區
+，以及烈嶼區</p></li></ol>
 </div>
 
 
 <h2 class="header-level-2" >國家公園標示意涵:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <img align="left" style="width: 100px; height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
-<center><h3>以閩南式建築的馬背造型，搭配吉祥的紅色構成整體圖案
+<center><p>以閩南式建築的馬背造型，搭配吉祥的紅色構成整體圖案
 主軸，突顯金門豐富的人文史蹟與傳統聚落，外圈則以綠
-色代表金門亦有豐富的自然資源，例如鳥類等自然資源。</h3></center>
+色代表金門亦有豐富的自然資源，例如鳥類等自然資源。</p></center>
 </div>
 
 
 <h2 class="header-level-2" >公園特色介紹:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<ol><li><h3> 氣候地形 : 四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量
-，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</h3></li><li><h3> 生態資源 : 瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</h3></li><li><h3> 戰役古蹟 : </h3></li><li><h3> 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來
-鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</h3></li></ol>
+<ol><li><p> 氣候地形 : 四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量
+，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</p></li><li><p> 生態資源 : 瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</p></li><li><p> 戰役古蹟 :翟山坑道 毋忘在莒</h3></li><li><h3> 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來
+鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</p></li></ol>
+<img alt="翟山坑道" src="/filesys/image/ct/3_theme/3_1_battlefield/3_1-11.jpg" >
+<img alt="毋忘在莒" src="/filesys/image/ct/3_theme/3_1_battlefield/3_1-08.jpg">
 </div>
 
 
 <h2 class="header-level-2" >交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<ol><li><h3>觀光公車 :</h3></li><li><h3>公共渡輪 : </h3></li></ol>
+<ol><li><p>觀光公車 :</h3></li><li><h3>公共渡輪 : </p></li></ol>
 </div>
 
 
