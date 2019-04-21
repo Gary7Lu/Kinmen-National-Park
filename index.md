@@ -41,8 +41,8 @@
 <ol><li><p> 氣候地形 : 四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量
 ，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</p></li><li><p> 生態資源 : 瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</p></li><li><p> 戰役古蹟 :翟山坑道 毋忘在莒</p></li><li><p> 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來
 鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。
-<img align="left" style="width: 300px; height: 300px;" alt="翟山坑道" src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" >
-<img align="right" style="width: 300px; height: 300px;" alt="毋忘在莒" src="https://pic.easytravel.com.tw/Attachments/13/1030/m/001.jpg">
+<img align="left" style="width: 200px; height: 200px;" src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" title="翟山坑道">
+<img align="right" style="width: 200px; height: 200px;" src="https://pic.easytravel.com.tw/Attachments/13/1030/m/001.jpg" title="毋忘在莒">
   </p></li></ol>
 </div>
 
