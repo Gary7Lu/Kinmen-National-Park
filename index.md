@@ -50,8 +50,10 @@
 <h2 class="header-level-2" >交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>觀光公車:</p>
-<p>水頭翟山線<img src=src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
-<p>古寧頭戰場線<img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" tilte="古寧頭戰場線"></p>
+<p>水頭翟山線</p>
+  <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
+<p>古寧頭戰場線</p>
+  <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" tilte="古寧頭戰場線"></p>
 <p>租車:</p>
 <p>
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
@@ -97,12 +99,7 @@
 <td>082-334322</td>
 </tr>
 <tr>
-<td>瑞信汽車租賃行</td>
-<td>金門縣金城鎮伯玉路一段2號之1</td>
-<td>082-324147</td>
-</tr>
-<tr>
-<td><a target="_blank" href="http://www.gipin.com.tw" title="吉品租車網站">吉品租車</a></td>
+<td>吉品租車</a></td>
 <td>金門縣伯玉路二段351號</td>
 <td>082-372608</td>
 </tr>
@@ -114,7 +111,7 @@
 </tbody>
 </table>
 </p>
-<p>公共渡輪 : </p>
+<p>公共渡輪:</p>
 </div>
 
 
