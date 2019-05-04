@@ -49,7 +49,72 @@
 
 <h2 class="header-level-2" >交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<ol><li><p>觀光公車 :</p></li><li><p>公共渡輪 : </p></li></ol>
+<p>觀光公車:</p>
+<p>水頭翟山線<img src=src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
+<p>古寧頭戰場線<img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" tilte="古寧頭戰場線"></p>
+<p>租車:</p>
+<p>
+  <table border="1" cellpadding="5" cellspacing="0" width="90%">
+<thead> 
+<tr>
+<th width="31%">名稱 </th><th width="48%">地址 </th><th width="18%">聯絡電話 </th>
+</tr>
+</thead> 
+<tbody>
+<tr>
+<td>大新小客車租賃行</td>
+<td>金門縣金城鎮民權路65巷1號</td>
+<td>082-324128</td>
+</tr>
+<tr>
+<td>汎德小客車租賃中心</td>
+<td>金門縣金湖鎮新武德新莊4號</td>
+<td>082-334082</td>
+</tr>
+<tr>
+<td>金馬小客車租賃社</td>
+<td>金門縣金城鎮民生路1-1號</td>
+<td>082-324518</td>
+</tr>
+<tr>
+<td>冠城汽車租賃行</td>
+<td>金門縣金城鎮民族路7-7號</td>
+<td>082-323390</td>
+</tr>
+<tr>
+<td>冠軍小客車租賃行</td>
+<td>金門縣金城鎮環島西路一段20號</td>
+<td>082-372122</td>
+</tr>
+<tr>
+<td>富成租車公司</td>
+<td>金門縣金城鎮伯玉路200號</td>
+<td>082-322177</td>
+</tr>
+<tr>
+<td>景昇租車行</td>
+<td>金門縣金湖鎮新菜市場11-1號</td>
+<td>082-334322</td>
+</tr>
+<tr>
+<td>瑞信汽車租賃行</td>
+<td>金門縣金城鎮伯玉路一段2號之1</td>
+<td>082-324147</td>
+</tr>
+<tr>
+<td><a target="_blank" href="http://www.gipin.com.tw" title="吉品租車網站">吉品租車</a></td>
+<td>金門縣伯玉路二段351號</td>
+<td>082-372608</td>
+</tr>
+<tr>
+<td>艾上綠能電動機車租賃</td>
+<td>金門縣金寧鄉伯玉路一段232號之2</td>
+<td>082-328096</td>
+</tr>
+</tbody>
+</table>
+</p>
+<p>公共渡輪 : </p>
 </div>
 
 
@@ -65,6 +130,8 @@
  </div> 
 
 <h2 class="header-level-2" >資料來源:</h2>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+</div> 
 <pre class="highlight"><code>
 </code></pre>
 
