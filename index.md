@@ -157,14 +157,13 @@
 
 </tbody>
 </table>
-<p>
+</p>
 </div>
+
 
 <h2 class="header-level-2" >補充資料:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJoEg2TCDag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+
 </div>
 
 
