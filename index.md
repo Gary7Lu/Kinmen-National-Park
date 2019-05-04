@@ -157,7 +157,7 @@
 
 </tbody>
 </table>
-</p>
+
 </div>
 
 
