@@ -115,7 +115,7 @@
 </p>
 
 
-<p>公共渡輪:</p>
+<p>空中運輸:</p>
 </div>
 
 
@@ -132,8 +132,7 @@
   <a href="http://np.cpami.gov.tw/">台灣國家公園</a><br>
   <a href="http://www.kmnp.gov.tw/index.php">金門國家公園</a><br>
   <a href="http://www.kcbfa.gov.tw/BusSite/wSite/ct?xItem=3010&ctNode=241&mp=6">金門公共車船管理處</a><br>
-  
+  <a href="https://www.kma.gov.tw/main/index.aspx">金門航空站</a><br> 
 </div> 
-<pre class="highlight"><code>
-</code></pre>
+
 
