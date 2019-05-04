@@ -61,62 +61,103 @@
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
 <thead> 
 <tr>
-<th width="31%">名稱 </th><th width="48%">地址 </th><th width="18%">聯絡電話 </th>
+<th width="31%">租車行名稱 </th><th width="48%">地址 </th><th width="18%">聯絡電話 </th>
 </tr>
 </thead> 
 <tbody>
+  
 <tr>
 <td>大新小客車租賃行</td>
 <td>金門縣金城鎮民權路65巷1號</td>
 <td>082-324128</td>
 </tr>
+
 <tr>
 <td>汎德小客車租賃中心</td>
 <td>金門縣金湖鎮新武德新莊4號</td>
 <td>082-334082</td>
 </tr>
+
 <tr>
 <td>金馬小客車租賃社</td>
 <td>金門縣金城鎮民生路1-1號</td>
 <td>082-324518</td>
 </tr>
+
 <tr>
 <td>冠城汽車租賃行</td>
 <td>金門縣金城鎮民族路7-7號</td>
 <td>082-323390</td>
 </tr>
+
 <tr>
 <td>冠軍小客車租賃行</td>
 <td>金門縣金城鎮環島西路一段20號</td>
 <td>082-372122</td>
 </tr>
+
 <tr>
 <td>富成租車公司</td>
 <td>金門縣金城鎮伯玉路200號</td>
 <td>082-322177</td>
 </tr>
+
 <tr>
 <td>景昇租車行</td>
 <td>金門縣金湖鎮新菜市場11-1號</td>
 <td>082-334322</td>
 </tr>
+
 <tr>
 <td>吉品租車</td>
 <td>金門縣伯玉路二段351號</td>
 <td>082-372608</td>
 </tr>
+
 <tr>
 <td>艾上綠能電動機車租賃</td>
 <td>金門縣金寧鄉伯玉路一段232號之2</td>
 <td>082-328096</td>
 </tr>
+
 </tbody>
 </table>
 </p>
 
 
 <p>空中運輸:</p>
-</div>
+
+ <table border="1" cellpadding="5" cellspacing="0" width="90%">
+<thead> 
+<tr>
+<th width="31%">航空公司 </th><th width="18%">聯絡電話 </th>
+</tr>
+</thead> 
+  
+<tbody>
+<tr>
+<td>立榮航空</td>
+<td>（07）7911000</td>
+</tr>
+  
+<tr>
+<td>華信航空</td>
+<td>（市話）4128008</td>
+</tr>
+
+<tr>
+<td>遠東航空</td>
+<td>（02）87707999</td>
+</tr>
+
+<tr>
+<td>相關諮詢</td>
+<td>（082）322381</td>
+</tr>
+
+</tbody>
+</table>
+<p>
 
 
 <h2 class="header-level-2" >補充資料:</h2>
