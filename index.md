@@ -158,7 +158,7 @@
 </tbody>
 </table>
 <p>
-
+</div>
 
 <h2 class="header-level-2" >補充資料:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
