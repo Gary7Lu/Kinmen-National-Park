@@ -183,7 +183,7 @@
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
 <thead> 
 <tr>
-<th width="31%">民宿/飯店 </th><th width="48%">地址 </th><th width="18%">聯絡電話 </th>
+<th width="25%">民宿/飯店 </th><th width="48%">地址 </th><th width="24%">聯絡電話 </th>
 </tr>
 </thead> 
 <tbody>
@@ -229,7 +229,7 @@
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
 <thead> 
 <tr>
-<th width="31%">店名</th><th width="48%">地址 </th><th width="18%">聯絡電話 </th>
+<th width="31%">店名</th><th width="43%">地址 </th><th width="23%">聯絡電話 </th>
 </tr>
 </thead> 
 <tbody>
