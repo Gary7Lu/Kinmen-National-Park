@@ -32,7 +32,7 @@
 
 <style>
 .button{
-    background-color: #4CAF50;
+    background-color: #f911de;
     border: 2px solid black;
     color: white;
     padding: 15px 32px;
@@ -44,12 +44,12 @@
 }
  #top{
     position:fixed;
-    right:7%;
+    right:4%;
     bottom:18%;
  }
  #bottom{
     position:fixed;
-    right:7%;
+    right:4%;
     bottom:10%;
  }
 </style>
@@ -68,8 +68,8 @@
 </head>
 <body>
 </body>
-<a class="button" id="top" href="#">點此返回網頁頂部</a>
-<a class="button" id="bottom" href="#">點此到達網頁底部</a>
+<a class="button" id="top" href="#">回頂部</a>
+<a class="button" id="bottom" href="#">到底部</a>
 
 <h2 class="header-level-2" >基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
