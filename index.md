@@ -1,4 +1,4 @@
-<center><h1 style="font-family:標楷體;font-size:40px;" >金門國家公園</h1></center>
+<center><h1 style="font-size:40px;" >金門國家公園</h1></center>
 <p>
   
  <style>
@@ -25,8 +25,7 @@
     font-family:"微軟正黑體";
     font-size:18px;
   }
-  
-</style>
+
   
 </style>
 
@@ -273,7 +272,7 @@
   <li><a href="http://www.kcbfa.gov.tw/BusSite/wSite/ct?xItem=3010&ctNode=241&mp=6">金門公共車船管理處</a></li><br>
   <li><a href="https://www.kma.gov.tw/main/index.aspx">金門航空站</a></li><br>
   <li><a href="https://travel.yam.com/Article.aspx?sn=93981">輕旅行</a></li><br>
-  <li><a href="https://asiayo.com/zh-tw/list/tw/kinmen-county/">AsiaYo</a></li><br>
+  <li><a href="https://asiayo.com/zh-tw/list/tw/kinmen-county/">AsiaYo</a></li>
  </ul>
 </div> 
 
