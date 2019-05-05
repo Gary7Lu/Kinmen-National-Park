@@ -18,9 +18,17 @@
    font-family:Microsoft JhengHei;
   }
   
+  td{
+    font-family:"標楷體";
+    font-size:18px;
+  }
+  
+  h2{
+    font-family:"標楷體";
+    font-weight:bold;
+  }
+  
 </style>
-
-
 
 <h2 style="font-family:標楷體" class="header-level-2" >基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
