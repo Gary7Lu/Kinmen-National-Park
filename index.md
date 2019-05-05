@@ -65,13 +65,13 @@
 <h2 class="header-level-2" >交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   
-<p style="color:#FF8800;">觀光公車:</p>
+<p style="color:#FF8800;font-weight:bold;">觀光公車:</p>
 <p>水頭翟山線    電話:082-332-721 </p>
   <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
 <p>古寧頭戰場線  電話:082-332-721 </p>
   <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" title="古寧頭戰場線"></p>
   
-<p style="color:#FF8800;">租車:</p>
+<p style="color:#FF8800;font-weight:bold;">租車:</p>
 <p>
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
 <thead> 
@@ -140,7 +140,7 @@
 </p>
 
 
-<p style="color:#FF8800;">空中運輸:</p>
+<p style="color:#FF8800;font-weight:bold;">空中運輸:</p>
 
  <table border="1" cellpadding="5" cellspacing="0" width="90%">
 <thead> 
