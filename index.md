@@ -29,6 +29,48 @@
   
 </style>
 
+
+<style>
+.button{
+    background-color: #4CAF50;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+ #top{
+    position:fixed;
+    right:7%;
+    bottom:18%;
+ }
+ #bottom{
+    position:fixed;
+    right:7%;
+    bottom:10%;
+ }
+</style>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#top').click(function () {
+        $('html, body').animate({scrollTop: 0},1000);
+      });
+      $('#bottom').click(function () {
+        $('html, body').animate({scrollTop:$(document).height()-$(window).height()}, 1000);
+      });
+    });
+  </script>
+</head>
+<body>
+</body>
+<a class="button" id="top" href="#">點此返回網頁頂部</a>
+<a class="button" id="bottom" href="#">點此到達網頁底部</a>
+
 <h2 class="header-level-2" >基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <ol>
