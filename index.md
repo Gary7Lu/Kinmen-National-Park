@@ -1,4 +1,4 @@
-<center><h1 style="font-family:標楷體" style="font-size:40px;" >金門國家公園</h1></center>
+<center><h1 style="font-family:標楷體;font-size:40px;" >金門國家公園</h1></center>
 <p>
   
  <style>
@@ -239,7 +239,7 @@
 
 <tr>
 <td>阿芬海產店</td>
-<td>地址：金湖鎮復國墩25號</td>
+<td>金門縣金湖鎮復國墩25號</td>
 <td>082-331139</td>
 </tr>
 
