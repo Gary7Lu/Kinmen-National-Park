@@ -66,10 +66,12 @@
 <p></p>
 <img style="width: 220px; height: 200px;" src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" title="翟山坑道">
 <img style="width: 220px; height: 200px;" src="https://pic.easytravel.com.tw/Attachments/13/1030/m/001.jpg" title="毋忘在莒">
-<img style="width: 220px; height: 200px;" src="https://images.zi.org.tw/jatraveling/2019/01/07113051/1546831850-20c76f397b6f9056d7ec6f2739668c2f.jpg" title="風獅爺"><p>
+<img style="width: 220px; height: 200px;" src="https://images.zi.org.tw/jatraveling/2019/01/07113051/1546831850-20c76f397b6f9056d7ec6f2739668c2f.jpg" title="風獅爺"><p></p>
 <img style="width: 320px; height: 200px;" src="https://photo.travelking.com.tw/scenery/BB1A01F3-8384-4E97-A3D4-B971BE93B828_b.jpg" title="八二三戰史館">  
-<img style="width: 320px; height: 200px;" src="http://nrch.culture.tw/twpedia/04011199001I02.jpg" title="文臺寶塔"><p>
+<img style="width: 320px; height: 200px;" src="http://nrch.culture.tw/twpedia/04011199001I02.jpg" title="文臺寶塔">
+<p></p>
  
+</div>
 
 
 
