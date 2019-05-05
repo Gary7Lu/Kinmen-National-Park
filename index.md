@@ -137,22 +137,22 @@
 <tbody>
 <tr>
 <td>立榮航空</td>
-<td>（07）7911000</td>
+<td>（07)791-1000</td>
 </tr>
   
 <tr>
 <td>華信航空</td>
-<td>（市話）4128008</td>
+<td>(02)412-8008</td>
 </tr>
 
 <tr>
 <td>遠東航空</td>
-<td>（02）87707999</td>
+<td>（02)8770-7999</td>
 </tr>
 
 <tr>
 <td>相關諮詢</td>
-<td>（082）322381</td>
+<td>（082）322-381</td>
 </tr>
 
 </tbody>
@@ -199,7 +199,7 @@
 <tr>
 <td>背包客棧497</td>
 <td>金門縣金湖鎮塔后497號</td>
-<td>0905 134 369</td>
+<td>0905-134-369</td>
 </tr>
 
 </tbody>
@@ -208,6 +208,47 @@
 
 </div>
 
+<h2 class="header-level-2" >美食資訊:</h2>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+<p>
+  <table border="1" cellpadding="5" cellspacing="0" width="90%">
+<thead> 
+<tr>
+<th width="31%">店名</th><th width="48%">地址 </th><th width="18%">聯絡電話 </th>
+</tr>
+</thead> 
+<tbody>
+  
+<tr>
+<td>蚵嗲之家</td>
+<td>金門縣金城鎮莒光路一段59號</td>
+<td>(08)232-2210</td>
+</tr>
+
+<tr>
+<td>金道地小吃店</td>
+<td>金門縣金城鎮前水頭15號</td>
+<td>(08)232-7969</td>
+</tr>
+
+<tr>
+<td>閩式燒餅</td>
+<td>金門縣金沙鎮博愛街48號</td>
+<td>082-352922</td>
+</tr>
+
+<tr>
+<td>阿芬海產店</td>
+<td>地址：金湖鎮復國墩25號</td>
+<td>082-331139</td>
+</tr>
+
+
+</tbody>
+</table>
+</p>
+
+</div>
 
 <h2 class="header-level-2" >資料來源:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
