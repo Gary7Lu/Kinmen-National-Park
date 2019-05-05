@@ -161,8 +161,50 @@
 </div>
 
 
-<h2 class="header-level-2" >補充資料:</h2>
+<h2 class="header-level-2" >住宿資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+<p>
+  <table border="1" cellpadding="5" cellspacing="0" width="90%">
+<thead> 
+<tr>
+<th width="31%">民宿/飯店 </th><th width="48%">地址 </th><th width="18%">聯絡電話 </th>
+</tr>
+</thead> 
+<tbody>
+  
+<tr>
+<td>八二三行館</td>
+<td>金門縣金湖鎮夏興100號</td>
+<td>082-333823</td>
+</tr>
+
+<tr>
+<td>小週末民宿</td>
+<td>金門縣金城鎮西海路35巷25號</td>
+<td>0905-588-750</td>
+</tr>
+
+<tr>
+<td>彩虹行館</td>
+<td>金門縣金湖鎮下莊中興路101號2樓</td>
+<td>0963-195-159</td>
+</tr>
+
+<tr>
+<td>單飛背包客棧</td>
+<td>金門縣金湖鎮前港路7巷12號</td>
+<td>08-233-5821</td>
+</tr>
+
+<tr>
+<td>背包客棧497</td>
+<td>金門縣金湖鎮塔后497號</td>
+<td>0905 134 369</td>
+</tr>
+
+</tbody>
+</table>
+</p>
 
 </div>
 
