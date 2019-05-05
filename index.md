@@ -20,11 +20,15 @@
   
 </style>
 
+
+
 <h2 style="font-family:標楷體" class="header-level-2" >基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <ol><li><p>建立時間 : 1995 年 10 月 18日 </p></li><li><p>面積大小 : 35.3 平方公里 </p></li><li><p>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區
 ，以及烈嶼區</p></li></ol>
 </div>
+
+
 
 
 <h2 style="font-family:標楷體" class="header-level-2" >國家公園標示意涵:</h2>
@@ -34,6 +38,8 @@
 主軸，突顯金門豐富的人文史蹟與傳統聚落，外圈則以綠
 色代表金門亦有豐富的自然資源，例如鳥類等自然資源。</p></center>
 </div>
+
+
 
 
 <h2 style="font-family:標楷體" class="header-level-2" >公園特色介紹:</h2>
@@ -47,13 +53,15 @@
 </div>
 
 
+
+
 <h2 style="font-family:標楷體" class="header-level-2" >交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   
 <p style="color:#FF8800;">觀光公車:</p>
-<p>水頭翟山線 電話:(082)332-721</p>
+<p>水頭翟山線   電話:082-332-721 </p>
   <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
-<p>古寧頭戰場線 電話:(082)332-721 </p>
+<p>古寧頭戰場線 電話:082-332-721 </p>
   <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" title="古寧頭戰場線"></p>
   
 <p style="color:#FF8800;">租車:</p>
@@ -179,6 +187,12 @@
 </tr>
 
 <tr>
+<td>單飛背包客棧</td>
+<td>金門縣金湖鎮前港路7巷12號</td>
+<td>082-335-821</td>
+</tr>
+
+<tr>
 <td>小週末民宿</td>
 <td>金門縣金城鎮西海路35巷25號</td>
 <td>0905-588-750</td>
@@ -191,22 +205,15 @@
 </tr>
 
 <tr>
-<td>單飛背包客棧</td>
-<td>金門縣金湖鎮前港路7巷12號</td>
-<td>082-335-821</td>
-</tr>
-
-<tr>
 <td>背包客棧497</td>
 <td>金門縣金湖鎮塔后497號</td>
 <td>0905-134-369</td>
 </tr>
-
 </tbody>
 </table>
 </p>
-
 </div>
+
 
 <h2 style="font-family:標楷體" class="header-level-2" >美食資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
@@ -247,15 +254,18 @@
 </tbody>
 </table>
 </p>
-
 </div>
+
+
 
 <h2 style="font-family:標楷體" class="header-level-2" >資料來源:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   <a href="http://np.cpami.gov.tw/">台灣國家公園</a><br>
   <a href="http://www.kmnp.gov.tw/index.php">金門國家公園</a><br>
   <a href="http://www.kcbfa.gov.tw/BusSite/wSite/ct?xItem=3010&ctNode=241&mp=6">金門公共車船管理處</a><br>
-  <a href="https://www.kma.gov.tw/main/index.aspx">金門航空站</a><br> 
+  <a href="https://www.kma.gov.tw/main/index.aspx">金門航空站</a><br>
+  <a href="https://travel.yam.com/Article.aspx?sn=93981">輕旅行</a><br>
+  <a href="https://asiayo.com/zh-tw/list/tw/kinmen-county/">AsiaYo</a><br>
 </div> 
 
 
