@@ -1,4 +1,4 @@
-<center><h1 style="font-size:40px;" >金門國家公園</h1></center>
+<center><h1 style="font-family:標楷體" style="font-size:40px;" >金門國家公園</h1></center>
 <p>
   
  <style>
@@ -20,8 +20,8 @@
   
 </style>
 
-<h2 class="header-level-2" >基本資訊:</h2>
-<div style="font-family:標楷體" style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+<h2 style="font-family:標楷體" class="header-level-2" >基本資訊:</h2>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <ol><li><p>建立時間 : 1995 年 10 月 18日 </p></li><li><p>面積大小 : 35.3 平方公里 </p></li><li><p>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區
 ，以及烈嶼區</p></li></ol>
 </div>
