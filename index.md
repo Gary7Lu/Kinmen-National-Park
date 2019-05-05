@@ -17,20 +17,20 @@
    font-size:18px;
    font-family:Microsoft JhengHei;
   }
-  
+  h2{
+    font-family:"微軟正黑體";
+    font-weight:bold;
+  }
   td{
-    font-family:"標楷體";
+    font-family:"微軟正黑體";
     font-size:18px;
   }
   
-  h2{
-    font-family:"標楷體";
-    font-weight:bold;
-  }
+</style>
   
 </style>
 
-<h2 style="font-family:標楷體" class="header-level-2" >基本資訊:</h2>
+<h2 class="header-level-2" >基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <ol><li><p>建立時間 : 1995 年 10 月 18日 </p></li><li><p>面積大小 : 35.3 平方公里 </p></li><li><p>地理位置 : 金門島中央的太武山區、西北的古寧頭區、西南的古崗區、東北的馬山區
 ，以及烈嶼區</p></li></ol>
@@ -39,7 +39,7 @@
 
 
 
-<h2 style="font-family:標楷體" class="header-level-2" >國家公園標示意涵:</h2>
+<h2 class="header-level-2" >國家公園標示意涵:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <img align="left" style="width: 100px; height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
 <center><p>以閩南式建築的馬背造型，搭配吉祥的紅色構成整體圖案
@@ -50,7 +50,7 @@
 
 
 
-<h2 style="font-family:標楷體" class="header-level-2" >公園特色介紹:</h2>
+<h2 class="header-level-2" >公園特色介紹:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p> 1. 氣候地形 : 四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量
 ，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</p><p> 2. 生態資源 : 瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</p><p> 3. 戰役古蹟 :翟山坑道 毋忘在莒</p><p> 4. 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來
@@ -63,13 +63,13 @@
 
 
 
-<h2 style="font-family:標楷體" class="header-level-2" >交通資訊:</h2>
+<h2 class="header-level-2" >交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
   
 <p style="color:#FF8800;">觀光公車:</p>
-<p style="font-family:標楷體">水頭翟山線   電話:082-332-721 </p>
+<p>水頭翟山線    電話:082-332-721 </p>
   <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
-<p style="font-family:標楷體">古寧頭戰場線 電話:082-332-721 </p>
+<p>古寧頭戰場線  電話:082-332-721 </p>
   <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" title="古寧頭戰場線"></p>
   
 <p style="color:#FF8800;">租車:</p>
@@ -177,7 +177,7 @@
 </div>
 
 
-<h2 style="font-family:標楷體" class="header-level-2" >住宿資訊:</h2>
+<h2 class="header-level-2" >住宿資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
@@ -265,7 +265,7 @@
 </div>
     
     
-<h2 style="font-family:標楷體" class="header-level-2" >資料來源:</h2>
+<h2 class="header-level-2" >資料來源:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
  <ul> 
   <li><a href="http://np.cpami.gov.tw/">台灣國家公園</a></li><br>
