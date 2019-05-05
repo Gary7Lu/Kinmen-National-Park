@@ -1,4 +1,4 @@
-<center><h1 style="font-size:40px;" >金門國家公園</h1></center>
+<center><h1 style="font-size:40px;font-weight:bold;" >金門國家公園</h1></center>
 <p>
   
  <style>
@@ -222,7 +222,7 @@
 </div>
 
 
-<h2 style="font-family:標楷體" class="header-level-2" >美食資訊:</h2>
+<h2 class="header-level-2" >美食資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>
   <table border="1" cellpadding="5" cellspacing="0" width="90%">
