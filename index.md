@@ -302,8 +302,8 @@
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 5</div>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJeQU4xGvudn13isgg_2jpxcXzoQ5x4Ljr2TlTnpmNLEyG42H" style="width:100%">
-            <div class="text"> 母忘在莒</div>
+            <img src="http://image.wenweipo.com/2014/05/28/b10a.jpg">
+            <div class="text"> 毋忘在莒</div>
         </div>
         
         <div class="mySlides fade">
@@ -314,7 +314,7 @@
         
         <div class="mySlides fade">
             <div class="numbertext">5 / 5</div>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgkOKJxJ-g8Nz1O0xIbxuF9i6hO1GtESZ1dEOYUiOX9PIrGn0w0w" style="width:100%">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUapL94vVzfeDLCDvoock4Ns8n7-Na3qVdam7wFlJ-SS2m1NIj" style="width:100%">
             <div class="text"> 風獅爺</div>
         </div>
         
