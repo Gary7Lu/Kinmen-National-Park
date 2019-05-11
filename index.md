@@ -290,32 +290,32 @@
 
         <div class="mySlides fade">
             <div class="numbertext">1 / 5</div>
-            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
-            <div class="text"> 1</div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQCFj0ADar4qmp2KMNd0b7Sht7K2IJ9qc7vrBnW6NvJQiyEtEzQ" style="width:100%">
+            <div class="text"> 水獺</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">2 / 5</div>
             <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
-            <div class="text"> 2</div>
+            <div class="text"> 翟山坑道</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 5</div>
-            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
-            <div class="text"> 3</div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJeQU4xGvudn13isgg_2jpxcXzoQ5x4Ljr2TlTnpmNLEyG42H" style="width:100%">
+            <div class="text"> 母忘在莒</div>
         </div>
         
         <div class="mySlides fade">
             <div class="numbertext">4 / 5</div>
-            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
-            <div class="text"> 4</div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLv6yM48o24gzMcrLGibXEMLn2lR9pBG5D-7HLwND_-MVrQ-jCbg" style="width:100%">
+            <div class="text"> 八二三戰史館</div>
         </div>
         
         <div class="mySlides fade">
             <div class="numbertext">5 / 5</div>
-            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
-            <div class="text"> 5</div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgkOKJxJ-g8Nz1O0xIbxuF9i6hO1GtESZ1dEOYUiOX9PIrGn0w0w" style="width:100%">
+            <div class="text"> 風獅爺</div>
         </div>
         
         <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -605,4 +605,4 @@
         <a class="button" id="home" href="#">返回主頁</a>
     </div>
 
-    </html>
+  
