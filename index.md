@@ -319,14 +319,9 @@
 
     <h2 class="header-level-2" id="C">公園特色介紹:</h2>
     <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-        <p> 1. 氣候地形 : 四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量 ，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。
-        </p>
-        <p> 2. 地質型態 : 以瓊林尚義一帶將金門本島分成東西兩半部，東半部明顯地大量出露花崗片麻岩，西半部則是以紅土層為主體。</p>
-        <p> 3. 生態資源 : 瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</p>
-        <p> 4. 戰役古蹟 : 翟山坑道 毋忘在莒 八二三戰史館 文臺寶塔</p>
-        <p> 5. 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來 鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。
-        </p>
-         <body>
+    
+    <p></p>
+        <body>
 
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, '氣候地形')" id="defaultOpen">氣候地形</button>
@@ -334,6 +329,7 @@
         <button class="tablinks" onclick="openCity(event, '生態資源')">生態資源</button>
         <button class="tablinks" onclick="openCity(event, '戰役古蹟')">戰役古蹟</button>
         <button class="tablinks" onclick="openCity(event, '人文史蹟')">人文史蹟</button>
+        <button class="tablinks" onclick="openCity(event, '相關影音')">相關影音</button>
     </div>
 
     <div id="氣候地形" class="tabcontent">
@@ -354,6 +350,10 @@
     
     <div id="人文史蹟" class="tabcontent">
         <p>由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來 鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</p>
+    </div>
+    
+    <div id="相關影音" class="tabcontent">
+        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/eJoEg2TCDag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 
     <script>
