@@ -29,7 +29,7 @@
             font-family: "微軟正黑體";
             font-size: 18px;
         }
-        
+        // button//
         .button {
             background-color: #a0fdff;
             border: 2px solid black;
@@ -65,6 +65,9 @@
             top: 5%;
             right: 5%;
         }
+        
+        
+        //light box//
         
          * {
             box-sizing: border-box
@@ -287,23 +290,35 @@
             <div class="slideshow-container">
 
         <div class="mySlides fade">
-            <div class="numbertext">1 / 3</div>
+            <div class="numbertext">1 / 5</div>
             <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
             <div class="text"> 1</div>
         </div>
 
         <div class="mySlides fade">
-            <div class="numbertext">2 / 3</div>
+            <div class="numbertext">2 / 5</div>
             <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
             <div class="text"> 2</div>
         </div>
 
         <div class="mySlides fade">
-            <div class="numbertext">3 / 3</div>
+            <div class="numbertext">3 / 5</div>
             <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
             <div class="text"> 3</div>
         </div>
-
+        
+        <div class="mySlides fade">
+            <div class="numbertext">4 / 5</div>
+            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
+            <div class="text"> 3</div>
+        </div>
+        
+        <div class="mySlides fade">
+            <div class="numbertext">5 / 5</div>
+            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
+            <div class="text"> 3</div>
+        </div>
+        
         <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
         <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
@@ -314,6 +329,8 @@
         <span class="dot" onclick="currentSlide(1)"></span>
         <span class="dot" onclick="currentSlide(2)"></span>
         <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+        <span class="dot" onclick="currentSlide(5)"></span>
     </div>
 
     <script>
