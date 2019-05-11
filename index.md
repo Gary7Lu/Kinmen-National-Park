@@ -62,7 +62,7 @@
         
         .button-bar {
             position: fixed;
-            top: 1%;
+            top: 5%;
             right: 5%;
         }
         
