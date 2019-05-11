@@ -129,7 +129,7 @@
             padding: 8px 12px;
             position: absolute;
             bottom: 8px;
-            width: 100%;
+            /*width: 100%;*/
             text-align: center;
         }
         /* Number text (1/3 etc) */
