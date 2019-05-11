@@ -329,24 +329,31 @@
          <body>
 
     <div class="tab">
-        <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">London</button>
-        <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-        <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+        <button class="tablinks" onclick="openCity(event, '氣候地形')" id="defaultOpen">氣候地形</button>
+        <button class="tablinks" onclick="openCity(event, '地質型態')">地質型態</button>
+        <button class="tablinks" onclick="openCity(event, '生態資源')">生態資源</button>
+        <button class="tablinks" onclick="openCity(event, '戰役古蹟')">戰役古蹟</button>
+        <button class="tablinks" onclick="openCity(event, '人文史蹟')">人文史蹟</button>
     </div>
 
-    <div id="London" class="tabcontent">
-        <h3>London</h3>
-        <p>London is the capital city of England.</p>
+    <div id="氣候地形" class="tabcontent">
+        <p>四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量 ，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</p>
     </div>
 
-    <div id="Paris" class="tabcontent">
-        <h3>Paris</h3>
-        <p>Paris is the capital of France.</p>
+    <div id="地質型態" class="tabcontent">
+        <p>以瓊林尚義一帶將金門本島分成東西兩半部，東半部明顯地大量出露花崗片麻岩，西半部則是以紅土層為主體。</p>
     </div>
 
-    <div id="Tokyo" class="tabcontent">
-        <h3>Tokyo</h3>
-        <p>Tokyo is the capital of Japan.</p>
+    <div id="生態資源" class="tabcontent">
+        <p>瀕臨絕種之保育類哺乳動物－水獺。另有屬古老的活化石「文昌魚」。</p>
+    </div>
+    
+    <div id="戰役古蹟" class="tabcontent">
+        <p>翟山坑道 毋忘在莒 八二三戰史館 文臺寶塔</p>
+    </div>
+    
+    <div id="人文史蹟" class="tabcontent">
+        <p>由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來 鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</p>
     </div>
 
     <script>
