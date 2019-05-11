@@ -129,7 +129,7 @@
             padding: 8px 12px;
             position: absolute;
             bottom: 8px;
-            /*width: 100%;*/
+            width: 100%;
             text-align: center;
         }
         /* Number text (1/3 etc) */
@@ -290,13 +290,13 @@
 
         <div class="mySlides fade">
             <div class="numbertext">1 / 5</div>
-            <img style="width:1600px;height:1000px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQCFj0ADar4qmp2KMNd0b7Sht7K2IJ9qc7vrBnW6NvJQiyEtEzQ" style="width:100%">
+            <img style="width:1600px;height:1000px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQCFj0ADar4qmp2KMNd0b7Sht7K2IJ9qc7vrBnW6NvJQiyEtEzQ">
             <div class="text"> 水獺</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">2 / 5</div>
-            <img style="width:1600px;height:1000px" src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
+            <img style="width:1600px;height:1000px" src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" >
             <div class="text"> 翟山坑道</div>
         </div>
 
@@ -308,13 +308,13 @@
         
         <div class="mySlides fade">
             <div class="numbertext">4 / 5</div>
-            <img style="width:1600px;height:1000px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLv6yM48o24gzMcrLGibXEMLn2lR9pBG5D-7HLwND_-MVrQ-jCbg" style="width:100%">
+            <img style="width:1600px;height:1000px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLv6yM48o24gzMcrLGibXEMLn2lR9pBG5D-7HLwND_-MVrQ-jCbg">
             <div class="text"> 八二三戰史館</div>
         </div>
         
         <div class="mySlides fade">
             <div class="numbertext">5 / 5</div>
-            <img style="width:1600px;height:1000px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUapL94vVzfeDLCDvoock4Ns8n7-Na3qVdam7wFlJ-SS2m1NIj" style="width:100%">
+            <img style="width:1600px;height:1000px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUapL94vVzfeDLCDvoock4Ns8n7-Na3qVdam7wFlJ-SS2m1NIj">
             <div class="text"> 風獅爺</div>
         </div>
         
