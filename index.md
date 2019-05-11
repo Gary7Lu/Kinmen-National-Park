@@ -65,6 +65,131 @@
             top: 1%;
             right: 5%;
         }
+        
+         * {
+            box-sizing: border-box
+        }
+        
+        body {
+            font-family: Verdana, sans-serif;
+            margin: 0
+        }
+        
+        .mySlides {
+            display: none
+        }
+        
+        img {
+            vertical-align: middle;
+        }
+        /* Slideshow container */
+        
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+        }
+        /* Next & previous buttons */
+        
+        .prev,
+        .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            padding: 16px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+        /* Position the "next button" to the right */
+        
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+        /* On hover, add a black background color with a little bit see-through */
+        
+        .prev:hover,
+        .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+        /* Caption text */
+        
+        .text {
+            color: #f2f2f2;
+            font-size: 15px;
+            padding: 8px 12px;
+            position: absolute;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+        }
+        /* Number text (1/3 etc) */
+        
+        .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+        }
+        /* The dots/bullets/indicators */
+        
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+        
+        .active,
+        .dot:hover {
+            background-color: #717171;
+        }
+        /* Fading animation */
+        
+        .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+        
+        @-webkit-keyframes fade {
+            from {
+                opacity: .4
+            }
+            to {
+                opacity: 1
+            }
+        }
+        
+        @keyframes fade {
+            from {
+                opacity: .4
+            }
+            to {
+                opacity: 1
+            }
+        }
+        /* On smaller screens, decrease text size */
+        
+        @media only screen and (max-width: 300px) {
+            .prev,
+            .next,
+            .text {
+                font-size: 11px
+            }
+        }
     </style>
     <html>
 
@@ -118,6 +243,8 @@
             });
         </script>
     </head>
+    
+    
 
     <h2 class="header-level-2" id="A">基本資訊:</h2>
     <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
@@ -157,12 +284,73 @@
         <p> 5. 人文史蹟 : 由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來 鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。
         </p>
         <p></p>
-        <img style="width: 220px; height: 200px;" src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" title="翟山坑道">
-        <img style="width: 220px; height: 200px;" src="https://pic.easytravel.com.tw/Attachments/13/1030/m/001.jpg" title="毋忘在莒">
-        <img style="width: 220px; height: 200px;" src="https://images.zi.org.tw/jatraveling/2019/01/07113051/1546831850-20c76f397b6f9056d7ec6f2739668c2f.jpg" title="風獅爺">
-        <p></p>
-        <img style="width: 320px; height: 200px;" src="https://photo.travelking.com.tw/scenery/BB1A01F3-8384-4E97-A3D4-B971BE93B828_b.jpg" title="八二三戰史館">
-        <img style="width: 320px; height: 200px;" src="http://nrch.culture.tw/twpedia/04011199001I02.jpg" title="文臺寶塔">
+            <div class="slideshow-container">
+
+        <div class="mySlides fade">
+            <div class="numbertext">1 / 3</div>
+            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
+            <div class="text"> 1</div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="numbertext">2 / 3</div>
+            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
+            <div class="text"> 2</div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="numbertext">3 / 3</div>
+            <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
+            <div class="text"> 3</div>
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    </div>
+    <br>
+
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+
+    <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+            if (n > slides.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = slides.length
+            }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+        }
+    </script>
+        
+        
+        
         <p></p>
 
     </div>
