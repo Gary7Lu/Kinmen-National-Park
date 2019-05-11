@@ -302,7 +302,7 @@
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 5</div>
-            <img src="http://image.wenweipo.com/2014/05/28/b10a.jpg">
+            <img src="http://pic.pimg.tw/martin0912/1324641420-2164420230_l.png">
             <div class="text"> 毋忘在莒</div>
         </div>
         
