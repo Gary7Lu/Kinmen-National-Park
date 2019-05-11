@@ -29,7 +29,7 @@
             font-family: "微軟正黑體";
             font-size: 18px;
         }
-        // button//
+        /* button*/
         .button {
             background-color: #a0fdff;
             border: 2px solid black;
@@ -67,7 +67,7 @@
         }
         
         
-        //light box//
+        /*light box*/
         
          * {
             box-sizing: border-box
@@ -194,7 +194,6 @@
             }
         }
     </style>
-    <html>
 
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
@@ -310,13 +309,13 @@
         <div class="mySlides fade">
             <div class="numbertext">4 / 5</div>
             <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
-            <div class="text"> 3</div>
+            <div class="text"> 4</div>
         </div>
         
         <div class="mySlides fade">
             <div class="numbertext">5 / 5</div>
             <img src="http://4.bp.blogspot.com/-03iiuAoe_nw/VL5R5tjCLZI/AAAAAAAA1rU/Fa4gaoxWcVg/s1600/DSC_0828.jpg" style="width:100%">
-            <div class="text"> 3</div>
+            <div class="text"> 5</div>
         </div>
         
         <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
