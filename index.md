@@ -373,8 +373,7 @@
     </div>
     
     
-    
-    </div>
+
 
     <script>
         function openCity(evt, cityName) {
