@@ -327,10 +327,10 @@
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, '氣候水文')" id="defaultOpen">氣候水文</button>
         <button class="tablinks" onclick="openCity(event, '地質地形')">地質地形</button>
-        <button class="tablinks" onclick="openCity(event, '生態資源')">生態資源</button>
+        <button class="tablinks" onclick="openCity(event, '動物資源')">動物資源</button>
+        <button class="tablinks" onclick="openCity(event, '植物資源')">植物資源</button>
         <button class="tablinks" onclick="openCity(event, '戰役古蹟')">戰役古蹟</button>
         <button class="tablinks" onclick="openCity(event, '人文史蹟')">人文史蹟</button>
-        <button class="tablinks" onclick="openCity(event, '相關影音')">相關影音</button>
     </div>
 
     <div id="氣候水文" class="tabcontent">
