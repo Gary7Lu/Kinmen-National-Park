@@ -325,8 +325,8 @@
         <body>
 
     <div class="tab">
-        <button class="tablinks" onclick="openCity(event, '氣候地形')" id="defaultOpen">氣候地形</button>
-        <button class="tablinks" onclick="openCity(event, '地質型態')">地質型態</button>
+        <button class="tablinks" onclick="openCity(event, '氣候水文')" id="defaultOpen">氣候水文</button>
+        <button class="tablinks" onclick="openCity(event, '地質地形')">地質地形</button>
         <button class="tablinks" onclick="openCity(event, '生態資源')">生態資源</button>
         <button class="tablinks" onclick="openCity(event, '戰役古蹟')">戰役古蹟</button>
         <button class="tablinks" onclick="openCity(event, '人文史蹟')">人文史蹟</button>
@@ -365,7 +365,7 @@
     </div>
     
     <div id="相關影音" class="tabcontent">
-        <center><iframe width="560" height="315" src="https://www.youtube.com/embed/eJoEg2TCDag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+        <center><iframe width="70%" height="30%" src="https://www.youtube.com/embed/eJoEg2TCDag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
     </div>
 
     <script>
