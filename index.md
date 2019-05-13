@@ -450,6 +450,7 @@
     </script>
 
 </body>
+
         <p></p>
             <div class="slideshow-container">
 
@@ -540,7 +541,7 @@
     <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
     
     
-     <body>
+   <body>
 
     <div class="tab1">
         <button class="tablinks" onclick="openCity(event, '觀光公車')" id="defaultOpen1">觀光公車</button>
@@ -672,7 +673,7 @@
     <script>
         function openCity(evt, cityName) {
             var i, tabcontent, tablinks;
-            tabcontent1 = document.getElementsByClassName("tabcontent1");
+            tabcontent = document.getElementsByClassName("tabcontent");
             for (i = 0; i < tabcontent.length; i++) {
                 tabcontent[i].style.display = "none";
             }
@@ -684,7 +685,7 @@
             evt.currentTarget.className += " active";
         }
 
-        // Get the element with id="defaultOpen" and click on it
+        // Get the element with id="defaultOpen1" and click on it
         document.getElementById("defaultOpen1").click();
     </script>
 
