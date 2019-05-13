@@ -495,7 +495,7 @@
     
      <body>
 
-    <div class="tab">
+    <div class="tab1">
         <button class="tablinks" onclick="openCity(event, '觀光公車')" id="defaultOpen1">觀光公車</button>
         <button class="tablinks" onclick="openCity(event, '租車')">租車</button>
         <button class="tablinks" onclick="openCity(event, '空中運輸')">空中運輸</button>
@@ -643,11 +643,6 @@
 
 </body>
 
-
-
-        
-
-        
 
         
 
