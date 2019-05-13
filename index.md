@@ -214,7 +214,7 @@
             border: none;
             outline: none;
             cursor: pointer;
-            padding: 12px 14px;
+            padding: 10px 12px;
             transition: 0.3s;
             font-size: 17px;
         }
@@ -335,6 +335,7 @@
         <button class="tablinks" onclick="openCity(event, '植物資源')">植物資源</button>
         <button class="tablinks" onclick="openCity(event, '戰役古蹟')">戰役古蹟</button>
         <button class="tablinks" onclick="openCity(event, '人文史蹟')">人文史蹟</button>
+        <button class="tablinks" onclick="openCity(event, '相關影音')">相關影音</button>
     </div>
 
     <div id="氣候水文" class="tabcontent">
@@ -385,6 +386,11 @@
         <p>由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來 鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</p>
         <h2> 羅厝媽祖公園 </h2>
         <p>烈嶼羅厝媽祖公園臨近九宮碼頭，位在羅厝後山制高點，可俯瞰羅厝漁港與東林濱海公園，公園裡最引人注目的是一尊高聳的媽祖石像，為羅厝新地標，這尊媽祖聖像材質為花崗岩。</p>
+    </div>
+    
+    <div id="相關影音" class="tabcontent">
+        <iframe style="width=100%;height=100%;" src="https://www.youtube.com/embed/n3eVALwyMEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
     </div>
     
     
