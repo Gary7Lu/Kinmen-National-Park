@@ -672,7 +672,7 @@
     <script>
         function openCity(evt, cityName) {
             var i, tabcontent, tablinks;
-            tabcontent = document.getElementsByClassName("tabcontent");
+            tabcontent1 = document.getElementsByClassName("tabcontent1");
             for (i = 0; i < tabcontent.length; i++) {
                 tabcontent[i].style.display = "none";
             }
