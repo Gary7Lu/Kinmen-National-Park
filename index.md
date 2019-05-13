@@ -214,7 +214,7 @@
             border: none;
             outline: none;
             cursor: pointer;
-            padding: 18px 20px;
+            padding: 12px 14px;
             transition: 0.3s;
             font-size: 17px;
         }
