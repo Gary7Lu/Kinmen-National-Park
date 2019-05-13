@@ -285,7 +285,7 @@
         </script>
     </head>
     
-<center><h1> style="font-size:40px;font-weight:bold;">金門國家公園</h1></center>
+<center><h1 style="font-size:40px;font-weight:bold;">金門國家公園</h1></center>
 
     <h2 class="header-level-2" id="A">基本資訊:</h2>
     <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
