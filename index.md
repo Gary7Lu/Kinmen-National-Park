@@ -64,6 +64,8 @@
         }
         
         
+        
+        
         /*light box*/
         
          * {
@@ -191,6 +193,8 @@
         }
         
         
+        
+        
         /*tabs*/
          body {
             font-family: Arial;
@@ -227,6 +231,49 @@
         /* Style the tab content */
         
         .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid #ccc;
+            border-top: none;
+        }
+        
+        
+        /*tabs1*/
+         body {
+            font-family: Arial;
+        }
+        /* Style the tab */
+        
+        .tab1 {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+        }
+        /* Style the buttons inside the tab */
+        
+        .tab1 button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+            font-size: 17px;
+        }
+        /* Change background color of buttons on hover */
+        
+        .tab1 button:hover {
+            background-color: #ddd;
+        }
+        /* Create an active/current tablink class */
+        
+        .tab1 button.active {
+            background-color: #ccc;
+        }
+        /* Style the tab content */
+        
+        .tabcontent1 {
             display: none;
             padding: 6px 12px;
             border: 1px solid #ccc;
@@ -502,7 +549,7 @@
 
     </div>
 
-    <div id="觀光公車" class="tabcontent">
+    <div id="觀光公車" class="tabcontent1">
         <h2 style="color:#FF8800;font-weight:bold;">觀光公車:</h2>
         <p>水頭翟山線 電話:082-332-721 </p>
         <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
@@ -510,7 +557,7 @@
         <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" title="古寧頭戰場線"></p>
     </div>
 
-    <div id="租車" class="tabcontent">
+    <div id="租車" class="tabcontent1">
         <h2 style="color:#FF8800;font-weight:bold;">租車:</h2>
         <p>
             <table border="1" cellpadding="5" cellspacing="0" width="90%">
@@ -582,7 +629,7 @@
         </p>
     </div>
 
-    <div id="空中運輸" class="tabcontent">
+    <div id="空中運輸" class="tabcontent1">
         <h2 style="color:#FF8800;font-weight:bold;">空中運輸:</h2>
 
         <table border="1" cellpadding="5" cellspacing="0" width="90%">
