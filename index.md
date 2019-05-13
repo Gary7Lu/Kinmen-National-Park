@@ -232,7 +232,7 @@
         
         .tabcontent {
             display: none;
-            padding: 5px 10px;
+            padding: 6px 12px;
             border: 1px solid #ccc;
             border-top: none;
         }
