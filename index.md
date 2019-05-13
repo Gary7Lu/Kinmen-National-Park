@@ -1,7 +1,4 @@
-<center>
-    <h1 style="font-size:40px;font-weight:bold;">金門國家公園</h1></center>
-<p>
-
+<html>
     <style>
         html {
             height: 100%;
@@ -33,7 +30,7 @@
         .button {
             background-color: #a0fdff;
             border: 2px solid black;
-            color: ;
+            color:  #0645ad;
             padding: 8px 24px;
             text-align: center;
             text-decoration: none;
@@ -288,7 +285,7 @@
         </script>
     </head>
     
-    
+<center><h1> style="font-size:40px;font-weight:bold;">金門國家公園</h1></center>
 
     <h2 class="header-level-2" id="A">基本資訊:</h2>
     <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
@@ -494,14 +491,27 @@
 
     <h2 class="header-level-2" id="D">交通資訊:</h2>
     <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+    
+    
+     <body>
 
-        <p style="color:#FF8800;font-weight:bold;">觀光公車:</p>
+    <div class="tab">
+        <button class="tablinks" onclick="openCity(event, '觀光公車')" id="defaultOpen">觀光公車</button>
+        <button class="tablinks" onclick="openCity(event, '租車')">租車</button>
+        <button class="tablinks" onclick="openCity(event, '空中運輸')">空中運輸</button>
+
+    </div>
+
+    <div id="觀光公車" class="tabcontent">
+        <h2 style="color:#FF8800;font-weight:bold;">觀光公車:</h2>
         <p>水頭翟山線 電話:082-332-721 </p>
         <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
         <p>古寧頭戰場線 電話:082-332-721 </p>
         <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" title="古寧頭戰場線"></p>
+    </div>
 
-        <p style="color:#FF8800;font-weight:bold;">租車:</p>
+    <div id="租車" class="tabcontent">
+        <h2 style="color:#FF8800;font-weight:bold;">租車:</h2>
         <p>
             <table border="1" cellpadding="5" cellspacing="0" width="90%">
                 <thead>
@@ -570,8 +580,10 @@
                 </tbody>
             </table>
         </p>
+    </div>
 
-        <p style="color:#FF8800;font-weight:bold;">空中運輸:</p>
+    <div id="空中運輸" class="tabcontent">
+        <h2 style="color:#FF8800;font-weight:bold;">空中運輸:</h2>
 
         <table border="1" cellpadding="5" cellspacing="0" width="90%">
             <thead>
@@ -604,6 +616,40 @@
 
             </tbody>
         </table>
+        
+    </div>
+    
+    
+
+
+    <script>
+        function openCity(evt, cityName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(cityName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+    </script>
+
+</body>
+
+
+
+        
+
+        
+
+        
 
     </div>
 
