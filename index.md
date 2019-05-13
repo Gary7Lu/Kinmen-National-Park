@@ -524,9 +524,9 @@
             <table border="1" cellpadding="5" cellspacing="0" width="90%">
                 <thead>
                     <tr>
-                        <th width="30%">租車行名稱 </th>
-                        <th width="45%">地址 </th>
-                        <th width="25%">聯絡電話 </th>
+                        <th width="31%">租車行名稱 </th>
+                        <th width="47%">地址 </th>
+                        <th width="22%">聯絡電話 </th>
                     </tr>
                 </thead>
                 <tbody>
