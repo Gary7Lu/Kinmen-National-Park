@@ -238,20 +238,20 @@
         }
         
         
-        /*tabs1*/
+        /*tabs*/
          body {
             font-family: Arial;
         }
         /* Style the tab */
         
-        .tab1 {
+        .tab {
             overflow: hidden;
             border: 1px solid #ccc;
             background-color: #f1f1f1;
         }
         /* Style the buttons inside the tab */
         
-        .tab1 button {
+        .tab button {
             background-color: inherit;
             float: left;
             border: none;
@@ -263,17 +263,17 @@
         }
         /* Change background color of buttons on hover */
         
-        .tab1 button:hover {
+        .tab button:hover {
             background-color: #ddd;
         }
         /* Create an active/current tablink class */
         
-        .tab1 button.active {
+        .tab button.active {
             background-color: #ccc;
         }
         /* Style the tab content */
         
-        .tabcontent1 {
+        .tabcontent {
             display: none;
             padding: 6px 12px;
             border: 1px solid #ccc;
@@ -543,14 +543,14 @@
     
    <body>
 
-    <div class="tab1">
+    <div class="tab">
         <button class="tablinks" onclick="openCity(event, '觀光公車')" id="defaultOpen1">觀光公車</button>
         <button class="tablinks" onclick="openCity(event, '租車')">租車</button>
         <button class="tablinks" onclick="openCity(event, '空中運輸')">空中運輸</button>
 
     </div>
 
-    <div id="觀光公車" class="tabcontent1">
+    <div id="觀光公車" class="tabcontent">
         <h2 style="color:#FF8800;font-weight:bold;">觀光公車:</h2>
         <p>水頭翟山線 電話:082-332-721 </p>
         <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
@@ -558,7 +558,7 @@
         <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" title="古寧頭戰場線"></p>
     </div>
 
-    <div id="租車" class="tabcontent1">
+    <div id="租車" class="tabcontent">
         <h2 style="color:#FF8800;font-weight:bold;">租車:</h2>
         <p>
             <table border="1" cellpadding="5" cellspacing="0" width="90%">
@@ -630,7 +630,7 @@
         </p>
     </div>
 
-    <div id="空中運輸" class="tabcontent1">
+    <div id="空中運輸" class="tabcontent">
         <h2 style="color:#FF8800;font-weight:bold;">空中運輸:</h2>
 
         <table border="1" cellpadding="5" cellspacing="0" width="90%">
