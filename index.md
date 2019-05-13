@@ -238,47 +238,7 @@
         }
         
         
-        /*tabs*/
-         body {
-            font-family: Arial;
-        }
-        /* Style the tab */
-        
-        .tab {
-            overflow: hidden;
-            border: 1px solid #ccc;
-            background-color: #f1f1f1;
-        }
-        /* Style the buttons inside the tab */
-        
-        .tab button {
-            background-color: inherit;
-            float: left;
-            border: none;
-            outline: none;
-            cursor: pointer;
-            padding: 14px 16px;
-            transition: 0.3s;
-            font-size: 17px;
-        }
-        /* Change background color of buttons on hover */
-        
-        .tab button:hover {
-            background-color: #ddd;
-        }
-        /* Create an active/current tablink class */
-        
-        .tab button.active {
-            background-color: #ccc;
-        }
-        /* Style the tab content */
-        
-        .tabcontent {
-            display: none;
-            padding: 6px 12px;
-            border: 1px solid #ccc;
-            border-top: none;
-        }
+       
     </style>
 
     <head>
@@ -544,7 +504,7 @@
    <body>
 
     <div class="tab">
-        <button class="tablinks" onclick="openCity(event, '觀光公車')" id="defaultOpen1">觀光公車</button>
+        <button class="tablinks" onclick="openCity(event, '觀光公車')">觀光公車</button>
         <button class="tablinks" onclick="openCity(event, '租車')">租車</button>
         <button class="tablinks" onclick="openCity(event, '空中運輸')">空中運輸</button>
 
