@@ -310,7 +310,15 @@
             });
         </script>
     </head>
-    
+    <div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'zh-tw', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit%22></script
 <center><h1 style="font-size:40px;font-weight:bold;">金門國家公園</h1></center>
 
     <h2 class="header-level-2" id="A">基本資訊:</h2>
