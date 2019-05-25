@@ -310,7 +310,7 @@
             });
         </script>
     </head>
-    
+    <body> 
     <div id="google_translate_element"></div>
 
     <script type="text/javascript">
@@ -796,7 +796,7 @@
             <li><a href="https://asiayo.com/zh-tw/list/tw/kinmen-county/">AsiaYo</a></li>
         </ul>
     </div>
-
+    </body>
     <div class="button-bar">
         <a id="flip">選單</a>
         <a class="button" id="a" href="#">基本資訊</a>
