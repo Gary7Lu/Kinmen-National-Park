@@ -318,7 +318,7 @@ function googleTranslateElementInit() {
 }
 </script>
 
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit%22></script
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit%22></script>
 <center><h1 style="font-size:40px;font-weight:bold;">金門國家公園</h1></center>
 
     <h2 class="header-level-2" id="A">基本資訊:</h2>
