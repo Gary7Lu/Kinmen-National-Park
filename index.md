@@ -796,6 +796,8 @@
             <li><a href="https://travel.yam.com/Article.aspx?sn=93981">輕旅行</a></li>
             <br>
             <li><a href="https://asiayo.com/zh-tw/list/tw/kinmen-county/">AsiaYo</a></li>
+            <br>
+            <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSY0S6ghcwRnG-cSk-7SWGYQ3OtSPrB08WCHfioE-R4XVmczzlpg">Picture</a></li>
         </ul>
     </div>
     </body>
