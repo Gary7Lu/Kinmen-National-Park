@@ -2,7 +2,7 @@
     <style>
 
         body {
-            background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/08/98/405814a2ba920b1.jpg");
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULCboCM-WVZab9TzNnnSuKhTlCASR-6m7Ezz0zgoCeUeiuEBzwA");
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-position: center;
